@@ -5,7 +5,7 @@ Project authored by Anuradha Reddy | Collaborators: Iohanna Nicenboim, Marie Lou
 
 (Note: Conversational agents a.k.a Voice assistants are AI-powered voice-interfaces such as Google Assistant, Siri, Alexa, Cortana)
 
-This is a public repository of crowd-sourced questions that people can ask their CAs to understand them better and become critically aware users of AI. The initial set of questions were generated from a workshop (Nicemboim et al. 2020) where several researchers got together and probed their voice assistants using the following themes: 
+This is a public repository of crowd-sourced questions that people can ask their CAs to understand them better and become critically aware users of AI. The initial set of questions were generated from a workshop (Nicenboim et al. 2020) where several researchers got together and probed their voice assistants using the following themes: 
 
   (1) How CAs present themselves to humans;
 
