@@ -10,7 +10,7 @@ This is a public repository of crowd-sourced questions that people can ask their
 (2) What relations and ecologies CAs create within the contexts in which humans use them; 
 (3) What infrastructures CAs need.
 
-**Try asking some of the questions from the 'Questionnaire' document to your CAs! If you wish to add more questions to this document, you can send us a pull request and we will update the document.*
+**Try asking some of the questions from the 'Questionnaire' document to your CAs! If you wish to add more questions to this document, you can send us a pull request and we will update the document.**
 
 TIPS: Questions and topics of the interview may include:
 (1) Agents: Human-likeness, self-representation, and personality. Explore CA reponses to ethical issues and how that influences our expectations toward them? What types of questions are systematically avoided? How do they present themselves and how aware are they of biases?
