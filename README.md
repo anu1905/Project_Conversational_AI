@@ -15,7 +15,7 @@ This is a public repository of crowd-sourced questions that people can ask their
   
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Try asking some of the questions from the 'Questionnaire' document to your CAs! If you wish to add more questions to this document, send us a pull request and we will update the document.**
+**Try asking your CAs some or all questions from the 'Questionnaire' document! If you wish to add more questions to this document, send us a pull request and we will update the document.**
 
 *TIPS: Questions and topics of the interview may include:*
 
