@@ -1,11 +1,7 @@
 # Project_Conversational_AI
 A questionnaire for interviewing conversational agents (CA)
 
-Project authored by Anuradha Reddy
-
-Project collaborators: Iohanna Nicenboim, Marie Louise Juul Sondergaard
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Project authored by Anuradha Reddy | Collaborators: Iohanna Nicenboim, Marie Louise Juul Sondergaard
 
 (Note: Conversational agents a.k.a Voice assistants are AI-powered voice-interfaces such as Google Assistant, Siri, Alexa, Cortana)
 
@@ -29,6 +25,7 @@ This is a public repository of crowd-sourced questions that people can ask their
 
 *(3) Infrastructures: Training data, security, privacy, and commercial interests. What material and immaterial infrastructures, such as human labor, data, and planetary resources, can be disclosed by using decentered forms of ethnography? How does the disclosing of infrastructures challenge traditional divisions of design and use? How could that help us uncover biases and their origin? What would it take to design an unbiased, trustworthy agent?*
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 For more information on this project: https://more-than-human.com/
 
 *Reference:*
