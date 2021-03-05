@@ -12,14 +12,16 @@ This is a public repository of crowd-sourced questions that people can ask their
 
 **Try asking some of the questions from the 'Questionnaire' document to your CAs! If you wish to add more questions to this document, you can send us a pull request and we will update the document.**
 
-TIPS: Questions and topics of the interview may include:
-(1) Agents: Human-likeness, self-representation, and personality. Explore CA reponses to ethical issues and how that influences our expectations toward them? What types of questions are systematically avoided? How do they present themselves and how aware are they of biases?
+*TIPS: Questions and topics of the interview may include:*
 
-(2) Relations and ecologies: Contexts of use, human and non-human/AI relations, and ecologies of interactions. What kinds of relations and ecologies do CAs elicit through their interaction with humans, as well as with other non-human agents? How do these relations change with shifting contexts of use? What kinds of relations matter more to humans, and why? In what instances does the authority/power of the CA become visible, and problematic?
+*(1) Agents: Human-likeness, self-representation, and personality. Explore CA reponses to ethical issues and how that influences our expectations toward them? What types of questions are systematically avoided? How do they present themselves and how aware are they of biases?*
 
-(3) Infrastructures: Training data, security, privacy, and commercial interests. What material and immaterial infrastructures, such as human labor, data, and planetary resources, can be disclosed by using decentered forms of ethnography? How does the disclosing of infrastructures challenge traditional divisions of design and use? How could that help us uncover biases and their origin? What would it take to design an unbiased, trustworthy agent?
+*(2) Relations and ecologies: Contexts of use, human and non-human/AI relations, and ecologies of interactions. What kinds of relations and ecologies do CAs elicit through their interaction with humans, as well as with other non-human agents? How do these relations change with shifting contexts of use? What kinds of relations matter more to humans, and why? In what instances does the authority/power of the CA become visible, and problematic?*
+
+*(3) Infrastructures: Training data, security, privacy, and commercial interests. What material and immaterial infrastructures, such as human labor, data, and planetary resources, can be disclosed by using decentered forms of ethnography? How does the disclosing of infrastructures challenge traditional divisions of design and use? How could that help us uncover biases and their origin? What would it take to design an unbiased, trustworthy agent?*
 
 For more information on this project: https://more-than-human.com/
 
-References:
+*References:*
+
 Iohanna Nicenboim, Elisa Giaccardi, Marie Louise Juul Søndergaard, Anuradha Venugopal Reddy, Yolande Strengers, James Pierce, and Johan Redström. 2020. More-Than-Human Design and AI: In Conversation with Agents. In Companion Publication of the 2020 ACM Designing Interactive Systems Conference (DIS' 20 Companion). Association for Computing Machinery, New York, NY, USA, 397–400. DOI:https://doi.org/10.1145/3393914.3395912
