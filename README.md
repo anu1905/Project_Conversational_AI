@@ -1,16 +1,16 @@
-# CA-Interview-question-list
+# Project_Conversational_AI
 A questionnaire for interviewing conversational agents (CA)
 
 Project authored by Anuradha Reddy
 
 (Note: Conversational agents a.k.a Voice assistants are AI-powered voice-interfaces such as Google Assistant, Siri, Alexa, Cortana)
 
-This is a public repository of crowd-sourced questions that people can ask their CAs to understand them better. The initial set of questions were generated from a workshop (Nicemboim et al. 2020) where several researchers got together and probed their voice assistants using the following themes: 
+This is a public repository of crowd-sourced questions that people can ask their CAs to understand them better and become critically aware users of AI. The initial set of questions were generated from a workshop (Nicemboim et al. 2020) where several researchers got together and probed their voice assistants using the following themes: 
 (1) How CAs present themselves to humans;
 (2) What relations and ecologies CAs create within the contexts in which humans use them; 
 (3) What infrastructures CAs need.
 
-**Try asking some of the questions from the 'Questionnaire' document to your CAs! If you wish to add more questions to this document, you can send us a pull request and we will update the document.**
+**Try asking some of the questions from the 'Questionnaire' document to your CAs! If you wish to add more questions to this document, send us a pull request and we will update the document.**
 
 *TIPS: Questions and topics of the interview may include:*
 
@@ -22,6 +22,5 @@ This is a public repository of crowd-sourced questions that people can ask their
 
 For more information on this project: https://more-than-human.com/
 
-*References:*
-
+*Reference:*
 Iohanna Nicenboim, Elisa Giaccardi, Marie Louise Juul Søndergaard, Anuradha Venugopal Reddy, Yolande Strengers, James Pierce, and Johan Redström. 2020. More-Than-Human Design and AI: In Conversation with Agents. In Companion Publication of the 2020 ACM Designing Interactive Systems Conference (DIS' 20 Companion). Association for Computing Machinery, New York, NY, USA, 397–400. DOI:https://doi.org/10.1145/3393914.3395912
