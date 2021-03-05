@@ -2,6 +2,7 @@
 A questionnaire for interviewing conversational agents (CA)
 
 Project authored by Anuradha Reddy
+Project collaborators: Iohanna Nicenboim, Marie Louise Juul Sondergaard
 
 (Note: Conversational agents a.k.a Voice assistants are AI-powered voice-interfaces such as Google Assistant, Siri, Alexa, Cortana)
 
