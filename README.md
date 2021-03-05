@@ -7,11 +7,13 @@ Project authored by Anuradha Reddy
 
 This is a public repository of crowd-sourced questions that people can ask their CAs to understand them better and become critically aware users of AI. The initial set of questions were generated from a workshop (Nicemboim et al. 2020) where several researchers got together and probed their voice assistants using the following themes: 
 
-(1) How CAs present themselves to humans;
+  (1) How CAs present themselves to humans;
 
-(2) What relations and ecologies CAs create within the contexts in which humans use them; 
+  (2) What relations and ecologies CAs create within the contexts in which humans use them; 
 
-(3) What infrastructures CAs need.
+  (3) What infrastructures CAs need.
+  
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Try asking some of the questions from the 'Questionnaire' document to your CAs! If you wish to add more questions to this document, send us a pull request and we will update the document.**
 
